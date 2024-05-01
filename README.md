@@ -1,6 +1,7 @@
 # India_Ageless
 This project (India Ageless) based on the GI tag of India should aim to promote awareness, appreciation, and understanding of Indian products and their unique qualties...
 This project consists technologies like HTML, CSS, JavaScript and PHP.
+ <img src="screencapture-localhost-IndiaAgeless.png" height="70%">
 # Abstraction/Overview
 - This project (India Ageless) based on the GI tag of India should aim to promote awareness, appreciation, and understanding of Indian products and their unique qualities.
 - By including features and functionalities that cater to diverse user needs and interests and enable users to explore and purchase GI tagged products, as well as learn about their history and significance, the website can support local businesses and artisans, and promotes awareness and appreciation of Indian culture and heritage and also leads the economic development of our country.
@@ -29,5 +30,5 @@ This project consists technologies like HTML, CSS, JavaScript and PHP.
 - By including features and functionalities that cater to diverse user needs and interests and enable users to explore and purchase GI tagged products, as well as learn about their history and significance, the website can help support local businesses and artisans, and promotes awareness and appreciation of Indian culture and heritage.
 
 
-    <img src="screencapture-localhost-IndiaAgeless.png" height="70%">
+   
 
